@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cpparticles",
+  "name": "Configurable Potion Particles",
+  "description": "Provides the ability for removal of potion particles from the player.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["covers1624"],
+  "credits": "ChickenBones for helping me understand ASM more.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,3 @@
+gui.potionParticleConfig.name=Configure Potion Particles
+button.enabled=Enabled
+button.disabled=Disabled
